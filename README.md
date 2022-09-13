@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CartmanGhoul14
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-CartmanGhoul14/CartmanGhoul14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Kauan Matheus (@CartmanGhoul14)
+- 👀 I’m interested in games and movies
+- 🌱 I’m currently learning mechanics, front end and deployment of cloud services
+- 💞️ I’m looking to collaborate on criative projects
+- 📫 You can find me on instagram: (@kauanc137)
